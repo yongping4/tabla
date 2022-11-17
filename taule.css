@@ -1,0 +1,33 @@
+table, th, td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+h1 {
+    text-align: center;
+    color: rgb(160, 52, 160);
+}
+table.center{
+
+    margin: 0 auto;
+
+}
+caption.ed{
+    color:blue
+}
+tr.ed1,td.ed1 {
+    background-color: gray;
+} 
+th.et1 {
+    width: 300px;
+    text-align: center;
+    
+} 
+th.et2 {
+    width: 80px;
+    text-align: center;
+} 
+th.et3 {
+    width: 120px;
+    text-align: center;
+} 
